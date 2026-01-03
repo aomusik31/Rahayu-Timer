@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Earthy & Premium Palette -->
+    <color name="brown_dark_bg">#3E2723</color> <!-- Latar Belakang Utama -->
+    <color name="brown_card">#D7CCC8</color>    <!-- Latar Card Timer -->
+    <color name="brown_text">#4E342E</color>    <!-- Teks Utama -->
+    <color name="gold_accent">#FFD700</color>   <!-- Aksen / List -->
+    <color name="orange_btn">#FF6F00</color>    <!-- Tombol Action -->
+    <color name="red_stop">#BF360C</color>      <!-- Tombol Stop -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
